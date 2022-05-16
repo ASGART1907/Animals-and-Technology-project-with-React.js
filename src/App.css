@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+}
+
+.nav{
+  text-decoration: none;
+  color:midnightblue;
+  padding:10px;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: all 0.25s ease-in-out;
+}
+
+.nav:hover{
+  background-color:#007cb9;
+  color: white;
+}
